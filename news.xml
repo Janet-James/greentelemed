@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<newslist title="Latest News">
+  <news category="red" url="news.php" date="01-01-2011">
+    <headline>World Malaria Report 2015</headline>
+    <detail><p>In 2015, there were an estimated 438 000 malaria deaths (range 236 000–635 000) worldwide. Most of these deaths occurred in the African Region (90%), followed by the South-East Asia Region (7%) and the Eastern Mediterranean Region (2%)</p>
+	</detail>
+  </news>
+  <news category="green" url="news.php" date="01-12-2011">
+    <headline>Country-level trends</headline>
+    <detail>In 2015, the global burden of malaria remained heavily concentrated in 15 countries, mainly in Africa. Together, these countries account for an estimated 80% of global malaria cases and 78% of deaths. Since 2000, progress in reducing malaria incidence in these high burden countries (32%) has lagged behind that of other countries globally (53%).</detail>
+  </news>
+  <news category="blue" url="news.php" date="01-22-2011">
+    <headline>Trends in the scale-up of malaria interventions</headline>
+    <detail>  
+      Over the last 15 years, there has been a major increase in coverage of ITNs in sub-Saharan Africa. By 2014, more than half (55%) of the population was protected by ITNs, compared to less than 2% coverage in 2000</detail>
+  </news>
+  <news category="yellow" url="news.php" date="01-24-2011">
+    <headline>Cases averted and cost savings</headline>
+    <detail>An estimated 663 million cases of malaria have been averted in sub-Saharan Africa since 2001 as a direct result of the scale-up of three key interventions: ITNs, IRS and ACTs. An estimated 68% of cases were averted through the use of mosquito nets, 22% due to ACTs and 10% due to indoor spraying</detail>
+  </news>
+  
+  <news category="yellow" url="news.php" date="01-24-2011">
+    <headline>Progress towards global targets</headline>
+    <detail>The malaria-specific target of the Millennium Development Goals (target C) called for “halting and beginning to reverse the global incidence of malaria by 2015.” This target has been achieved, with a 37% global decline in malaria incidence since 2000</detail>
+  </news>
+  
+  <news category="yellow" url="news.php" date="01-24-2011">
+    <headline>Epidemic</headline>
+    <detail>Since the beginning of the epidemic, almost 78 million people have been infected with the HIV virus and about 39 million people have died of HIV. Globally, 35.0 million [33.2–37.2 million] people were living with HIV at the end of 2013. An estimated 0.8% of </detail>
+  </news>
+  
+  <news category="yellow" url="news.php" date="01-24-2011">
+    <headline>Global situation and trends</headline>
+    <detail>The strategy aims to end the global TB epidemic, with targets to reduce TB deaths by 95% and to cut new cases by 90% between 2015 and 2035, and to ensure that no family is burdened with catastrophic expenses due to TB. </detail>
+  </news>
+  
+</newslist>
